@@ -8,6 +8,7 @@
         "Description": "Included Tweaks:\n\n- 风脉助手\n- 兵装库自动分类\n- 套装切换\n- 聊天命令辅助\n- 自定义聊天时间戳\n- DTR\n- 增强的经验条\n- 理符交付\n- 强制转场音乐\n- 隐藏完成后的主线任务\n- 保持唤醒\n- 小地图调整\n- 刷新材料列表\n- 显示职能要求\n- 可滚动选项卡\n- 查找交易板\n",
         "ApplicableVersion":"any",
         "RepoUrl":"https://github.com/MukaManaka/HaselTweaks",
+        "IconUrl": "https://raw.githubusercontent.com/MukaManaka/HaselTweaks/main/res/icon.png",
         "DalamudApiLevel":7,
         "DownloadLinkInstall":"https://raw.githubusercontent.com/MukaManaka/HaselTweaks/main/res/latest.zip",
         "DownloadLinkUpdate":"https://raw.githubusercontent.com/MukaManaka/HaselTweaks/main/res/latest.zip",
