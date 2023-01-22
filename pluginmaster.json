@@ -12,7 +12,7 @@
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/MukaManaka/HaselTweaks/main/res/icon.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/HaselTweaks/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/MukaManaka/HaselTweaks/main/res/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://raw.githubusercontent.com/MukaManaka/HaselTweaks/main/res/latest.zip",
