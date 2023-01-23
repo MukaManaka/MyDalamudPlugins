@@ -12,5 +12,18 @@
         "DalamudApiLevel":7,
         "DownloadLinkInstall":"https://raw.githubusercontent.com/MukaManaka/MyDalamudPlugins/master/HaselTweaks/latest.zip",
         "DownloadLinkUpdate":"https://raw.githubusercontent.com/MukaManaka/MyDalamudPlugins/master/HaselTweaks/latest.zip"
+    },
+    {
+        "Author":"Mukamanaka",
+        "Name": "Slice is Right CN",
+        "InternalName":"SliceIsRight",
+        "Punchline": "HaselTweaks CN 汉化 By Mukamanaka",
+        "AssemblyVersion":"6.0",
+        "Description": "显示金蝶一闪竹子倒下的范围",
+        "ApplicableVersion":"any",
+        "RepoUrl":"https://github.com/MukaManaka/Slice-Is-Right",
+        "DalamudApiLevel":7,
+        "DownloadLinkInstall":"https://raw.githubusercontent.com/MukaManaka/MyDalamudPlugins/master/SliceIsRight/latest.zip",
+        "DownloadLinkUpdate":"https://raw.githubusercontent.com/MukaManaka/MyDalamudPlugins/master/SliceIsRight/latest.zip"
     }
 ]
