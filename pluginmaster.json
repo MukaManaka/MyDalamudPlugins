@@ -31,7 +31,7 @@
     "Name": "ReAction CN",
     "InternalName": "ReAction CN",
     "Punchline": "QoL for the battle system (ReAction for CN)",
-    "AssemblyVersion": "9.9.9.9",
+    "AssemblyVersion": "1.1.6.7",
     "Description": "为某个技能设置复杂的执行流程，可以分享配置",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MukaManaka/ReAction",
