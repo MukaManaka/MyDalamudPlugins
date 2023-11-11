@@ -4,7 +4,7 @@
     "Name": "MioPlugin",
     "InternalName": "MioPlugin",
     "Punchline": "施放技能到场中，移动召唤兽/小仙女到场中",
-    "AssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.0.0.4",
     "Description": "/mio dixing 地星\n/mio liyi 礼仪之铃\n/mio yezhan 野战治疗阵\n/mio bihu 庇护所\n召唤兽小仙女移动至场中\/mio petmid\n",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/MukaManaka/",
